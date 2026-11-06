@@ -1,0 +1,5 @@
+streamlit
+pandas
+joblib
+scikit-learn==REPLACE_WITH_YOUR_VERSION
+xgboost==REPLACE_WITH_YOUR_VERSION
